@@ -1,7 +1,7 @@
 # How to setup
 1. Download the source file (.zip)
 2. Extract the file.
-3. Stop the IIS Web and IIS Apppool of this site (important).
+3. Stop the IIS Web and IIS Apppool of the site (important).
 4. After extracting the file, there are 2 folders named: "asset-management-sln" and "publish". The section below describes the steps for each folder:
    - asset-management-sln
      - In the server, delete all files in the "asset-management-sln" folder.
