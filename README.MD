@@ -7,6 +7,6 @@
      - In the server, delete all files in the "asset-management-sln" folder.
      - In our local machine, copy the new files we just extracted in the "asset-management-sln" folder to the "asset-management-sln" folder in the server.
    - publish
-     - We simply copy all the files from source to server folder, without deleting anything. When pasting, please choose the "Copy and Replace" option.
+     - We simply copy and override all the files from source to server folder, without deleting anything. When pasting, please choose the "Copy and Replace" option.
 5. Database: if there is a script .sql file in the zip folder, run this script against the production database.
 6. Start IIS and IISApppool again
